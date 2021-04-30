@@ -1,6 +1,6 @@
 # Wall painting exercise
-# How many cage neet to a wall pain
-# Each cage abale to pain 5 square wall
+# How many cage need to a wall pain
+# Each cage able to pain 5 square wall
 
 # start programming
 import math
